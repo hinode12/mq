@@ -144,7 +144,6 @@ public class NeNotificationService2  extends NotificationListenerService {
                     if (content!=null && !content.equals("")) {
                         if (content.indexOf("通过扫码向你付款")!=-1 || content.indexOf("成功收款")!=-1 || title.indexOf("通过扫码向你付款")!=-1 || title.indexOf("成功收款")!=-1){
                             String money = getMoney(content);
-                            String money = getMoney(title);
                             if (money!=null){
                                 Log.d(TAG, "onAccessibilityEvent: 匹配成功： 支付宝 到账 " + money);
                                 appPush(2, Double.valueOf(money));
