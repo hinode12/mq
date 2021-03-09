@@ -156,7 +156,6 @@ public class NeNotificationService2  extends NotificationListenerService {
                                 });
                             }
                         }
-
                     }
 
                 }else if(pkg.equals("com.tencent.mm")){
