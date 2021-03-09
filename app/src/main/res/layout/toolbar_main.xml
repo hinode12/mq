@@ -17,7 +17,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:text="免签监控端 v21.3.9"
+            android:text="V免签监控端"
             android:textColor="@android:color/white"
             android:textSize="18sp" />
 
