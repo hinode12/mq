@@ -11,19 +11,12 @@ V免签 是基于SpringBoot 2.1.1/ThinkPhP5.1 实现的一套免签支付程序�
 
 > bug反馈请建立issues
 
-> Java版服务端地址：【 https://github.com/szvone/Vmq 】
-
-> PHP 版服务端地址：【 https://github.com/szvone/vmqphp 】
-
-## 前言
-
-
-V免签为完全开源项目，开源项目意味着作者没有任何收入来源，仅凭个人空闲时间开发，如果您有经济条件，您可以赞助本项目的开发（下方收款码），如果您不想赞助，也请您点击上面的Star给一个星星，也是对我莫大的认同，感谢各位的支持。
+> PHP 版服务端地址：【 https://gitee.com/rrkai/VMQPHP 】
 
 
 ## 安装
 
- + 下载服务端程序，可选PHP/Java版，按照说明安装
+ + 下载服务端程序，可选PHP版，按照说明安装
  + 下载编译好的Apk,安装后扫码/手动配置 即可使用
 
 
