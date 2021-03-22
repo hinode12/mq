@@ -5,13 +5,13 @@ V免签  —— 个人开发者收款解决方案
 
 V免签 是基于SpringBoot 2.1.1/ThinkPhP5.1 实现的一套免签支付程序，主要包含以下特色：
 
- + JAVA、PHP双服务端，总有一款适合你服务器
+ + PHP双服务端，总有一款适合你服务器
  + 超简单Api使用，提供统一Api实现收款回调
  + 免费、开源
 
 > bug反馈请建立issues
 
-> PHP 版服务端地址：【 https://gitee.com/rrkai/VMQPHP 】
+> PHP 版服务端地址：【 https://gitee.com/yuniks/VMQPHP 】
 
 
 ## 安装
