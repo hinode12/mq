@@ -7,8 +7,8 @@ android {
         applicationId "com.vone.qrcode"
         minSdkVersion 19
         targetSdkVersion 26
-        versionCode 1
-        versionName "2021"
+        versionCode 2021
+        versionName "21.3.9"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
