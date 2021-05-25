@@ -251,10 +251,10 @@ public class NeNotificationService2  extends NotificationListenerService {
         });
     }
 
-    public static String getMoney(String title){
+    public static String getMoney(String content){
 
         List<String> ss = new ArrayList<String>();
-        for(String sss:title.replaceAll("[^0-9.]", ",").split(",")){
+        for(String sss:content.replaceAll("[^0-9.]", ",").split(",")){
             if (sss.length()>0)
                 ss.add(sss);
         }
